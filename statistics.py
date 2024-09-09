@@ -1,4 +1,4 @@
-"""Module containing common math variables."""
+"""Functions for calculating common math variables."""
 from math import sqrt
 
 
@@ -39,5 +39,5 @@ def variance(data):
 
 
 def stdev(data):
-    """Returns the standard deviation of a list of values."""
+    """Return the standard deviation of a list of values."""
     return sqrt(variance(data))
