@@ -1,7 +1,8 @@
 Continuous Integration Demo
 ===========================
 [![Run flake8 and flake8 docstring](https://github.com/KhunakornP/ci-demo/actions/workflows/python-flake8.yml/badge.svg)](https://github.com/KhunakornP/ci-demo/actions/workflows/python-flake8.yml)
-[![Run unittests](https://github.com/KhunakornP/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/KhunakornP/ci-demo/actions/workflows/python-unittest.yml) \
+[![Run unittests](https://github.com/KhunakornP/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/KhunakornP/ci-demo/actions/workflows/python-unittest.yml) 
+[![codecov](https://codecov.io/github/KhunakornP/ci-demo/graph/badge.svg?token=WFTNMPXJVR)](https://codecov.io/github/KhunakornP/ci-demo)\
 This project demonstrates use of Github Actions to build and test a Python project.  
 
 ## Automatic Testing
