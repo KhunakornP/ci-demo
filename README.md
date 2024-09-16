@@ -25,7 +25,7 @@ This project demonstrates use of Github Actions to build and test a Python proje
 4. Fix the style problems until your code passes flake8.
 5. Push to Github.
 
-## Code Coverage (Not Done Yet)
+## Code Coverage
 
 Use Github to perform code coverage and generate a report.
 This will help you find places where you need to improve your tests.
